@@ -13,7 +13,7 @@ public class Main {
 		Scanner input = new Scanner(System.in);
 		
 		System.out.println("Enter the year you were born:");
-        year = input.nextInt();
+                year = input.nextInt();
 		
 		remain = year%12;
 		
